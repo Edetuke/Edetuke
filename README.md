@@ -4,7 +4,7 @@ I am on my way to retrain as React.js developer!
 
 ## Current projects I am working on
 * [Scrum](https://edetuke.github.io/scrum/)
-* [Food-Ordering-app](tobeadded)
+* [Food-Ordering-app](https://edetuke.github.io/food-ordering-app/)
 
 ## About me
 I am a self learner and completed the following Udemy courses:
