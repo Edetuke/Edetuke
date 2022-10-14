@@ -19,6 +19,6 @@ I am a self learner and completed the following Udemy courses:
   <img src="https://img.shields.io/badge/Stand_with-Ukraine-ffd700.svg?labelColor=0057b7"/>
 </p>
 
-<a href="https://github.com/Naxaliav">
+<a href="https://github.com/Edetuke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edetuke&show_icons=true&theme=shades-of-purple&count_private=true" alt="Edetuke's GitHub Stats" />
 </a>
