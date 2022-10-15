@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am on my way to retrain as React.js developer!
+I am on my way to retrain as React.js developer! 🚀
 
 ## Current projects I am working on
 * [Scrum](https://edetuke.github.io/scrum/)
