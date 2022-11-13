@@ -3,8 +3,8 @@
 I am on my way to retrain as React.js developer! 🚀
 
 ## Current projects I am working on
+* [MobilePay calculator](https://edetuke.github.io/MobilePay-calculator/)
 * [Scrum](https://edetuke.github.io/scrum/)
-* [Food-Ordering-app](https://edetuke.github.io/food-ordering-app/)
 
 ## About me
 I am a self learner and completed the following Udemy courses:
